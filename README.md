@@ -32,9 +32,9 @@ _Se adjuntan imagenes de muestra en este archivo, para tener la experiencia inte
 
 ### WIFI Público en la Ciudad de Buenos Aires
 
-[Descargar archivo .pbix](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Proyecto WIFI CABA.png)
+[Descargar archivo .pbix](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Proyecto Wifi CABA.pbix)
 
-![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi1.png "Optional Title")
-![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi2.png "Optional Title")
-![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi3.png "Optional Title")
-![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi4.png "Optional Title")
+![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi1.jpg "Optional Title")
+![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi2.jpg "Optional Title")
+![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi3.jpg "Optional Title")
+![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Wifi4.jpg "Optional Title")
