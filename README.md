@@ -13,6 +13,8 @@ _Se adjuntan imagenes de muestra en este archivo, para tener la experiencia inte
 
 [Visualización en Tableau Public](https://public.tableau.com/views/Violencia_16155227022730/Dashboard2?:language=es&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
+![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Género.png "Optional Title")
+
 !(https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Género.png)
 
 
