@@ -16,9 +16,11 @@ _Se adjuntan imagenes de muestra en este archivo, para tener la experiencia inte
 
 ![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Género.png "Optional Title")
 
+### Sistema de bicicletas Divy
 
+[Visualización en Tableau Public](https://public.tableau.com/views/2_4_highlighter_16139309135190/Whoaretheriders?:language=es&:display_count=y&:origin=viz_share_link)
 
-
+![Alt text](https://raw.githubusercontent.com/riverofacundo/Herramientas-BI/main/Divy.png "Optional Title")
 
 ```
 Da un ejemplo
